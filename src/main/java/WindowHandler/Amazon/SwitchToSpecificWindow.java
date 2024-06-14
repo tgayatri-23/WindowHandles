@@ -1,4 +1,4 @@
-package WindowHandler.Amazon;
+package WindowHandler.OrangeHRM;
 
 import java.time.Duration;
 import java.util.ArrayList;
